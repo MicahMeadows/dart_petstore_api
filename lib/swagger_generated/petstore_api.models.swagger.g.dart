@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'petstore_api.swagger.dart';
+part of 'petstore_api.models.swagger.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator
