@@ -9,6 +9,8 @@ environment:
 dependencies:
 #   path: ^1.8.0
   chopper_generator: ^4.0.5
+  chopper: ^4.0.5
+  json_annotation: ^4.5.0
 
 dev_dependencies:
   lints: ^2.0.0
